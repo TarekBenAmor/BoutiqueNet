@@ -1,0 +1,134 @@
+[
+    {
+      "name": "PlayStation",
+      "url": "https://i.ibb.co/zHmZnWx/playstation-5.png",
+      "category": "games",
+      "price": 499.99
+    },
+    {
+      "name": "Samsung Galaxy",
+      "url": "https://i.ibb.co/rFFMDH7/samsung-galaxy.png",
+      "category": "smartphones",
+      "price": 399.99
+    },
+    {
+      "name": "Canon camera",
+      "url": "https://i.ibb.co/mhm1hLq/cannon-eos-camera.png",
+      "category": "cameras",
+      "price": 749.99
+    },
+    {
+      "name": "Sony A7",
+      "url": "https://i.ibb.co/LS9TDLN/sony-a7-camera.png",
+      "category": "cameras",
+      "price": 1999.99
+    },
+    {
+      "name": "LG TV",
+      "url": "https://i.ibb.co/QHgFnHk/lg-tv.png",
+      "category": "televisions",
+      "price": 799.99
+    },
+    {
+      "name": "Nintendo Switch",
+      "url": "https://i.ibb.co/L0L9SdG/nintendo-switch.png",
+      "category": "games",
+      "price": 299.99
+    },
+    {
+      "name": "Xbox",
+      "url": "https://i.ibb.co/C8rBVdT/xbox-series-x.png",
+      "category": "games",
+      "price": 499.99
+    },
+    {
+      "name": "Samsung TV",
+      "url": "https://i.ibb.co/Pj1nm4B/samsung-tv.png",
+      "category": "televisions",
+      "price": 1099.99
+    },
+    {
+      "name": "Google Pixel",
+      "url": "https://i.ibb.co/5F58zmH/google-pixel.png",
+      "category": "smartphones",
+      "price": 499.99
+    },
+    {
+      "name": "Sony camera",
+      "url": "https://i.ibb.co/5Wy3RZ9/sony-zv1f-camera.png",
+      "category": "cameras",
+      "price": 799.99
+    },
+    {
+      "name": "Toshiba TV",
+      "url": "https://i.ibb.co/FxM6rXq/toshiba-tv.png",
+      "category": "televisions",
+      "price": 499.99
+    },
+    {
+      "name": "iPhone 14",
+      "url": "https://i.ibb.co/5vc7J6s/iphone-14.png",
+      "category": "smartphones",
+      "price": 999.99
+    },
+    {
+      "name": "Asus VivoBook",
+      "url": "https://i.ibb.co/fCt6K8n/asus01.jpg",
+      "category": "PC",
+      "price": 1050
+    },
+    {
+      "name": "Asus VivoBook",
+      "url": "https://i.ibb.co/f19k4w8/asus02.jpg",
+      "category": "PC",
+      "price": 1080
+    },
+    {
+      "name": "Asus VivoBook",
+      "url": "https://i.ibb.co/Zhgxrh8/asus03.jpg",
+      "category": "PC",
+      "price": 2300
+    },
+    {
+      "name": "Dell inspiron",
+      "url": "https://i.ibb.co/qD1ywxS/Dell01.jpg",
+      "category": "PC",
+      "price": 1450 
+    },
+    {
+      "name": "Dell inspiron",
+      "url": "https://i.ibb.co/BLj5qMn/Dell02.jpg",
+      "category": "PC",
+      "price": 1900
+    },
+    {
+      "name": "Dell inspiron",
+      "url": "https://i.ibb.co/BLj5qMn/Dell02.jpg",
+      "category": "PC",
+      "price": "1850"
+    },
+    {
+      "name": "Hp compact",
+      "url": "https://i.ibb.co/8xV7t4h/hp01.jpg",
+      "category": "PC",
+      "price": "1750"
+    },
+    {
+      "name": "Hp compact",
+      "url": "https://i.ibb.co/zVQyhXb/hp02.jpg",
+      "category": "PC",
+      "price": "1600"
+    },
+    {
+      "name": "Hp compact",
+      "url": "https://i.ibb.co/r5Sd9MD/hp03.jpg",
+      "category": "PC",
+      "price": "1550"
+    }
+    
+  ]
+  
+
+  
+
+
